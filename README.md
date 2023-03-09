@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abu-sufyan1
+- 👋 Hi, I’m Sufyan Shaikh
 - 👀 I’m interested in contributing to open source.
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on Angular
